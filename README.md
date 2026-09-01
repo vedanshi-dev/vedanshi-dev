@@ -1,4 +1,5 @@
-🧑‍💻 REAL ME
+👋 hello, I am Vedanshi Daima
+
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Hello,%20I'm%20a%20Future%20Developer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Visitors&color=667eea&style=for-the-badge" alt="Profile Visitors" /> </p> <p align="center"> <b>Integrated MCA Student • Programmer • Problem Solver • Learner</b> </p>
 👋 About Me
 
