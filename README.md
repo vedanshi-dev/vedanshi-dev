@@ -1,6 +1,6 @@
 👋 hello, I am Vedanshi Daima
 
-<p align="center"> <img src="" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Visitors&color=667eea&style=for-the-badge" alt="Profile Visitors" /> </p> <p align="center"> <b>Integrated MCA Student • Programmer • Problem Solver • Learner</b> </p>
+<p align="center"> <img src="xyz.pvt" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Visitors&color=667eea&style=for-the-badge" alt="Profile Visitors" /> </p> <p align="center"> <b>Integrated MCA Student • Programmer • Problem Solver • Learner</b> </p>
 👋 About Me
 
 I am a 1st-semester Integrated MCA student who enjoys understanding how things work, especially through mathematics and programming.
