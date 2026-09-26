@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vedanshi Daima
 
 <p align="center">
-  <img src="xyz" alt="Vedanshi Daima" width="100%">
+  <img src=alt width="100%">
 </p>
 
 <p align="center">
